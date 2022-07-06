@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e093dbbf-32c0-4ece-ba90-388ec2294ea7": {
+      "ProjectGuid": "e093dbbf-32c0-4ece-ba90-388ec2294ea7",
+      "DisplayName": "Quize App",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

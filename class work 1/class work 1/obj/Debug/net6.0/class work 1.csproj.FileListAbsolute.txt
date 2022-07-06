@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\class work 1\class work 1\bin\Debug\net6.0\class work 1.exe
+C:\Users\Student\source\repos\class work 1\class work 1\bin\Debug\net6.0\class work 1.deps.json
+C:\Users\Student\source\repos\class work 1\class work 1\bin\Debug\net6.0\class work 1.runtimeconfig.json
+C:\Users\Student\source\repos\class work 1\class work 1\bin\Debug\net6.0\class work 1.dll
+C:\Users\Student\source\repos\class work 1\class work 1\bin\Debug\net6.0\ref\class work 1.dll
+C:\Users\Student\source\repos\class work 1\class work 1\bin\Debug\net6.0\class work 1.pdb
+C:\Users\Student\source\repos\class work 1\class work 1\obj\Debug\net6.0\class work 1.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\class work 1\class work 1\obj\Debug\net6.0\class work 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\class work 1\class work 1\obj\Debug\net6.0\class work 1.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\class work 1\class work 1\obj\Debug\net6.0\class work 1.AssemblyInfo.cs
+C:\Users\Student\source\repos\class work 1\class work 1\obj\Debug\net6.0\class work 1.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\class work 1\class work 1\obj\Debug\net6.0\class work 1.dll
+C:\Users\Student\source\repos\class work 1\class work 1\obj\Debug\net6.0\ref\class work 1.dll
+C:\Users\Student\source\repos\class work 1\class work 1\obj\Debug\net6.0\class work 1.pdb
+C:\Users\Student\source\repos\class work 1\class work 1\obj\Debug\net6.0\class work 1.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aecf6f2c-7da6-4a8e-9b0f-8247cacedce9": {
+      "ProjectGuid": "aecf6f2c-7da6-4a8e-9b0f-8247cacedce9",
+      "DisplayName": "Phone book app",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

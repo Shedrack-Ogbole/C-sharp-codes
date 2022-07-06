@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8445e57a-8d11-47c9-b250-4aaeaec1ea4a": {
+      "ProjectGuid": "8445e57a-8d11-47c9-b250-4aaeaec1ea4a",
+      "DisplayName": "StaticModifier",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

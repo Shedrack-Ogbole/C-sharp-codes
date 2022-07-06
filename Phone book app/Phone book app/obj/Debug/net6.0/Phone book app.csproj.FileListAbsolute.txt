@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\Phone book app\Phone book app\bin\Debug\net6.0\Phone book app.exe
+C:\Users\Student\source\repos\Phone book app\Phone book app\bin\Debug\net6.0\Phone book app.deps.json
+C:\Users\Student\source\repos\Phone book app\Phone book app\bin\Debug\net6.0\Phone book app.runtimeconfig.json
+C:\Users\Student\source\repos\Phone book app\Phone book app\bin\Debug\net6.0\Phone book app.dll
+C:\Users\Student\source\repos\Phone book app\Phone book app\bin\Debug\net6.0\ref\Phone book app.dll
+C:\Users\Student\source\repos\Phone book app\Phone book app\bin\Debug\net6.0\Phone book app.pdb
+C:\Users\Student\source\repos\Phone book app\Phone book app\obj\Debug\net6.0\Phone book app.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Phone book app\Phone book app\obj\Debug\net6.0\Phone book app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Phone book app\Phone book app\obj\Debug\net6.0\Phone book app.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Phone book app\Phone book app\obj\Debug\net6.0\Phone book app.AssemblyInfo.cs
+C:\Users\Student\source\repos\Phone book app\Phone book app\obj\Debug\net6.0\Phone book app.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Phone book app\Phone book app\obj\Debug\net6.0\Phone book app.dll
+C:\Users\Student\source\repos\Phone book app\Phone book app\obj\Debug\net6.0\ref\Phone book app.dll
+C:\Users\Student\source\repos\Phone book app\Phone book app\obj\Debug\net6.0\Phone book app.pdb
+C:\Users\Student\source\repos\Phone book app\Phone book app\obj\Debug\net6.0\Phone book app.genruntimeconfig.cache

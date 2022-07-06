@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "618b1ee9-95c7-463d-a3dc-c58c8cb2df53": {
+      "ProjectGuid": "618b1ee9-95c7-463d-a3dc-c58c8cb2df53",
+      "DisplayName": "Method two",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

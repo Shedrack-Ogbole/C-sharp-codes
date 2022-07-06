@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\Assignment on classes\Assignment on classes\bin\Debug\net6.0\Assignment on classes.exe
+C:\Users\Student\source\repos\Assignment on classes\Assignment on classes\bin\Debug\net6.0\Assignment on classes.deps.json
+C:\Users\Student\source\repos\Assignment on classes\Assignment on classes\bin\Debug\net6.0\Assignment on classes.runtimeconfig.json
+C:\Users\Student\source\repos\Assignment on classes\Assignment on classes\bin\Debug\net6.0\Assignment on classes.dll
+C:\Users\Student\source\repos\Assignment on classes\Assignment on classes\bin\Debug\net6.0\ref\Assignment on classes.dll
+C:\Users\Student\source\repos\Assignment on classes\Assignment on classes\bin\Debug\net6.0\Assignment on classes.pdb
+C:\Users\Student\source\repos\Assignment on classes\Assignment on classes\obj\Debug\net6.0\Assignment on classes.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Assignment on classes\Assignment on classes\obj\Debug\net6.0\Assignment on classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Assignment on classes\Assignment on classes\obj\Debug\net6.0\Assignment on classes.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Assignment on classes\Assignment on classes\obj\Debug\net6.0\Assignment on classes.AssemblyInfo.cs
+C:\Users\Student\source\repos\Assignment on classes\Assignment on classes\obj\Debug\net6.0\Assignment on classes.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Assignment on classes\Assignment on classes\obj\Debug\net6.0\Assignment on classes.dll
+C:\Users\Student\source\repos\Assignment on classes\Assignment on classes\obj\Debug\net6.0\ref\Assignment on classes.dll
+C:\Users\Student\source\repos\Assignment on classes\Assignment on classes\obj\Debug\net6.0\Assignment on classes.pdb
+C:\Users\Student\source\repos\Assignment on classes\Assignment on classes\obj\Debug\net6.0\Assignment on classes.genruntimeconfig.cache

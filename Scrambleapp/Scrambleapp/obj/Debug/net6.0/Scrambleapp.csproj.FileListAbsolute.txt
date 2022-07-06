@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\Scrambleapp\Scrambleapp\obj\Debug\net6.0\Scrambleapp.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Scrambleapp\Scrambleapp\obj\Debug\net6.0\Scrambleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Scrambleapp\Scrambleapp\obj\Debug\net6.0\Scrambleapp.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Scrambleapp\Scrambleapp\obj\Debug\net6.0\Scrambleapp.AssemblyInfo.cs
+C:\Users\Student\source\repos\Scrambleapp\Scrambleapp\obj\Debug\net6.0\Scrambleapp.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Scrambleapp\Scrambleapp\bin\Debug\net6.0\Scrambleapp.exe
+C:\Users\Student\source\repos\Scrambleapp\Scrambleapp\bin\Debug\net6.0\Scrambleapp.deps.json
+C:\Users\Student\source\repos\Scrambleapp\Scrambleapp\bin\Debug\net6.0\Scrambleapp.runtimeconfig.json
+C:\Users\Student\source\repos\Scrambleapp\Scrambleapp\bin\Debug\net6.0\Scrambleapp.dll
+C:\Users\Student\source\repos\Scrambleapp\Scrambleapp\bin\Debug\net6.0\ref\Scrambleapp.dll
+C:\Users\Student\source\repos\Scrambleapp\Scrambleapp\bin\Debug\net6.0\Scrambleapp.pdb
+C:\Users\Student\source\repos\Scrambleapp\Scrambleapp\obj\Debug\net6.0\Scrambleapp.dll
+C:\Users\Student\source\repos\Scrambleapp\Scrambleapp\obj\Debug\net6.0\ref\Scrambleapp.dll
+C:\Users\Student\source\repos\Scrambleapp\Scrambleapp\obj\Debug\net6.0\Scrambleapp.pdb
+C:\Users\Student\source\repos\Scrambleapp\Scrambleapp\obj\Debug\net6.0\Scrambleapp.genruntimeconfig.cache
